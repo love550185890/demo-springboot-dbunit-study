@@ -29,4 +29,4 @@
     PRIMARY KEY ( `id` ) ) 
     ENGINE = INNODB AUTO_INCREMENT = 6 DEFAULT CHARSET = utf8;
 
-## QQ:550185890
+## 仅为学习提供
